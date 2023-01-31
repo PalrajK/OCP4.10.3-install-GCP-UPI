@@ -1,4 +1,4 @@
-# OpenShift 4.10 installation on GCP using UPI method
+# OpenShift 4.12 installation on GCP using UPI method
 
 *UPDATE (14th September 2022) : The exercise demonstrated in this GitHub project uses OpenShift version 4.10.3. However, it can also be used as a guide for installing almost any 4.10.x as well as 4.11.1 version of OpenShift on GCP using the UPI Method. Tested at my end, and it works perfectly on 4.11.1 as well. Some GCP UI changes might be seen now, however these are very minor and shouldn't have much impact on the installation flow.*
 
